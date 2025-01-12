@@ -1,0 +1,339 @@
+[
+	{
+		"id": "http://zotero.org/users/959956/items/K6A6KPNW",
+		"type": "article-journal",
+		"container-title": "Research in Corpus Linguistics",
+		"DOI": "10.32714/ricl.13.01.07",
+		"ISSN": "2243-4712",
+		"issue": "1",
+		"journalAbbreviation": "RiCL",
+		"page": "139-170",
+		"title": "Detecting emerging vocabulary in a large corpus of Italian tweets",
+		"URL": "https://ricl.aelinco.es/first-view/353-Article%20Text-2839-1-10-20240920-1.pdf",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Spina",
+				"given": "Stefania"
+			},
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Franzini",
+				"given": "Greta H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/IYIIUXRZ",
+		"type": "dataset",
+		"DOI": "10.5281/zenodo.10620336",
+		"license": "CC BY 4.0",
+		"source": "Zenodo",
+		"title": "Breviloquia Italica dataset",
+		"title-short": "breviloquia-italica/dataset",
+		"URL": "https://zenodo.org/doi/10.5281/zenodo.10620336",
+		"author": [
+			{
+				"family": "Spina",
+				"given": "Stefania"
+			},
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Franzini",
+				"given": "Greta H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					2,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/N8S9NG23",
+		"type": "paper-conference",
+		"collection-title": "CEUR Workshop Proceedings",
+		"container-title": "Proceedings of the 9th Italian Conference on Computational Linguistics",
+		"event-place": "Venezia, Italy",
+		"event-title": "Italian Conference on Computational Linguistics",
+		"language": "en",
+		"license": "CC BY 4.0",
+		"note": "ISSN: 1613-0073",
+		"publisher": "CEUR",
+		"publisher-place": "Venezia, Italy",
+		"source": "CEUR Workshop Proceedings",
+		"title": "\"Ti blocco perché sei un trollazzo\". Lexical Innovation in Contemporary Italian in a Large Twitter Corpus",
+		"URL": "https://ceur-ws.org/Vol-3596/#paper12",
+		"volume": "3596",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Franzini",
+				"given": "Greta H."
+			},
+			{
+				"family": "Spina",
+				"given": "Stefania"
+			}
+		],
+		"editor": [
+			{
+				"family": "Boschetti",
+				"given": "Federico"
+			},
+			{
+				"family": "Lebani",
+				"given": "Gianluca E."
+			},
+			{
+				"family": "Magnini",
+				"given": "Bernardo"
+			},
+			{
+				"family": "Novielli",
+				"given": "Nicole"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/5J79ZQS3",
+		"type": "speech",
+		"language": "en",
+		"license": "All rights reserved",
+		"note": "DOI: 10.5281/zenodo.10276318",
+		"title": "\"Ti blocco perché sei un trollazzo\". Lexical innovation in contemporary Italian in a large Twitter corpus",
+		"URL": "https://zenodo.org/records/10276318",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Franzini",
+				"given": "Greta H."
+			},
+			{
+				"family": "Spina",
+				"given": "Stefania"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/N7VB8FVN",
+		"type": "dataset",
+		"DOI": "10.5281/zenodo.10009942",
+		"license": "CC BY 4.0",
+		"source": "Zenodo",
+		"title": "Breviloquia Italica annotations",
+		"title-short": "breviloquia-italica/annotations",
+		"URL": "https://zenodo.org/doi/10.5281/zenodo.10009942",
+		"author": [
+			{
+				"family": "Franzini",
+				"given": "Greta H."
+			},
+			{
+				"family": "Spina",
+				"given": "Stefania"
+			},
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/CF5N68XJ",
+		"type": "software",
+		"license": "CC BY 4.0",
+		"note": "DOI: 10.5281/zenodo.8430341",
+		"source": "Zenodo",
+		"title": "Breviloquia Italica data pipeline",
+		"title-short": "breviloquia-italica/pipeline",
+		"URL": "https://zenodo.org/doi/10.5281/zenodo.8430341",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/QAK3T3QN",
+		"type": "paper-conference",
+		"collection-title": "Quaderni di Umanistica Digitale",
+		"container-title": "Me.Te. Digitali. Mediterraneo in rete tra testi e contesti, Proceedings del XIII Convegno Annuale AIUCD2024",
+		"DOI": "10.6092/unibo/amsacta/7927",
+		"event-place": "Catania, Italy",
+		"event-title": "XIII Convegno Annuale AIUCD2024",
+		"ISBN": "978-88-942535-8-0",
+		"language": "en",
+		"publisher": "AIUCD",
+		"publisher-place": "Catania, Italy",
+		"title": "Uncovering the spread of lexical innovation in Italian tweets",
+		"URL": "https://amsacta.unibo.it/id/eprint/7927/",
+		"author": [
+			{
+				"family": "Franzini",
+				"given": "Greta H."
+			},
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Spina",
+				"given": "Stefania"
+			}
+		],
+		"editor": [
+			{
+				"family": "Di Silvestro",
+				"given": "Antonio"
+			},
+			{
+				"family": "Spampinato",
+				"given": "Daria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/RTYRX2GM",
+		"type": "speech",
+		"abstract": "Poster for the work presented at AIUCD2024 (XIII Convegno Annuale Associazione per l'Informatica Umanistica e la Cultura Digitale), held in Catania on 28th-30th May 2024.",
+		"note": "DOI: 10.5281/zenodo.14634189",
+		"title": "Uncovering the spread of lexical innovation in Italian tweets",
+		"URL": "https://zenodo.org/records/14634189",
+		"author": [
+			{
+				"family": "Franzini",
+				"given": "Greta H."
+			},
+			{
+				"family": "Spina",
+				"given": "Stefania"
+			},
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/MXA5QLMS",
+		"type": "software",
+		"abstract": "This resource contains the full sourcecode for the frustum visualization tool of the Breviloquia Italica project",
+		"note": "DOI: 10.5281/zenodo.11241357",
+		"publisher": "Zenodo",
+		"source": "Zenodo",
+		"title": "Breviloquia Italica frustum visualization tool",
+		"URL": "https://zenodo.org/records/10620336",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					2,
+					5
+				]
+			]
+		}
+	}
+]
